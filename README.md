@@ -3,9 +3,32 @@
 ## Objetivo
 MVP web para auxiliar pequenos supermercados de bairro na gestão de estoque, vendas e finanças.
 
-## Telas Prototipadas
-- **Link do Figma**: [Acesse o protótipo aqui](https://www.figma.com/design/YmtuaSG7FL376kzYkYuFX1/Layout?node-id=0-1&t=BliwoH0319qPm9kO-1)
-- **Principais Funcionalidades**: Cadastro de produtos, controle de estoque, relatórios de vendas, etc.
+### Telas Desenvolvidas
+Aqui estão as principais telas do protótipo:
+
+#### Tela de Login
+![Tela de Login](/screenshots/tela_login.png)
+
+#### Tela Inicial
+![Tela de Controle de Estoque](/screenshots/tela_inicial.png)
+
+#### Tela de Produtos
+![Tela de Relatórios de Vendas](/screenshots/tela_produtos.png)
+
+#### Tela de Conferência de Estoque
+![Tela de Relatórios de Vendas](/screenshots/tela_conferencia_estoques.png)
+
+#### Tela de Cadastro de Novo Produto
+![Tela de Relatórios de Vendas](/screenshots/tela_novo_produto.png)
+
+#### Tela de Buscar Novo Produto
+![Tela de Relatórios de Vendas](/screenshots/tela_buscar_produtos.png)
+
+#### Tela de Excluir Produto
+![Tela de Relatórios de Vendas](/screenshots/tela_excluir_produtos.png)
+
+#### Tela de Histórico de Vendas do Produto
+![Tela de Relatórios de Vendas](/screenshots/tela_historico_vendas.png)
 
 ## Relatório
 - **Link do Google Docs**: [Acesse o relatório aqui](https://docs.google.com/document/d/1aC9lD3PZL-oH2IYQmYAg2qN1TlnrfVyZBzQN1lUoTeg/edit?tab=t.0).
