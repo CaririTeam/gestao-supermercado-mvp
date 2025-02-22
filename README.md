@@ -8,8 +8,8 @@ MVP web para auxiliar pequenos supermercados de bairro na gestão de estoque, ve
 - **Principais Funcionalidades**: Cadastro de produtos, controle de estoque, relatórios de vendas, etc.
 
 ## Relatório
-- **Link do Google Docs**: [Acesse o relatório aqui](https://docs.google.com/link).
-- **PDF**: Disponível em [/docs/relatorio.pdf](/docs/relatorio.pdf).
+- **Link do Google Docs**: [Acesse o relatório aqui](https://docs.google.com/document/d/1aC9lD3PZL-oH2IYQmYAg2qN1TlnrfVyZBzQN1lUoTeg/edit?tab=t.0).
+- **PDF**: Disponível em breve.
 
 ## Equipe
 **Integrantes do Cariri Technology Team**:
