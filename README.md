@@ -32,6 +32,9 @@ Aqui estão as principais telas do protótipo:
 #### Tela de Histórico de Vendas do Produto
 ![Tela de Relatórios de Vendas](/screenshots/tela_historico_vendas.png)
 
+#### Fluxo de Navegação
+![Fluxo de Navegação](/screenshots/fluxo_navegacao.png)
+
 ## Relatório
 - **Link do Google Docs**: [Acesse o relatório aqui](https://docs.google.com/document/d/1aC9lD3PZL-oH2IYQmYAg2qN1TlnrfVyZBzQN1lUoTeg/edit?tab=t.0).
 - **PDF**: Disponível em breve.
