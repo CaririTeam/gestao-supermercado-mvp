@@ -1,7 +1,7 @@
 # Sistema de Gestão de Supermercados de Bairro
 
 ## Objetivo
-MVP web para auxiliar pequenos supermercados de bairro na gestão de estoque, vendas e finanças.
+Protótipo de alta fidelidade de um MVP web para auxiliar pequenos supermercados de bairro na gestão de estoque, vendas e finanças.
 
 - **Link do Figma**: [Acesse as telas aqui](https://www.figma.com/proto/ZhAbsyIbIIwDCgsSu3k0lM/Atividade-Pr%C3%A1tica%3A-Prot%C3%B3tipo-de-2-Telas-no-Figma?node-id=13-592&t=WyFBL0DSyQR5jyff-1&starting-point-node-id=13%3A592&scaling=scale-down&content-scaling=fixed).
 
